@@ -28,7 +28,7 @@
     "iframe-resizer": "^4.2.11",
     "libphonenumber-js": "^1.9.6",
     "lodash": "^4.17.20",
-    "nuxt": "^2.14.8",
+    "nuxt": "^3.4.3",
     "nuxt-client-init-module": "^0.1.8",
     "nuxt-typed-vuex": "^0.1.22",
     "tailwind-content-placeholder": "0.0.3",
